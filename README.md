@@ -11,21 +11,6 @@ I am a **Full Stack Developer** focused on building high-performance backend sys
 
 ---
 
-### 🤖 Live AI Insights
-> [!NOTE]
-> This section uses a simple LLM integration to track my current learning path.
-* **Current Focus:** Mastering Node.js Streams and asynchronous patterns.
-* **The Goal:** Architecting scalable full-stack applications.
-
----
-
-### 📈 Metrics & Activity
-| GitHub Stats | Top Languages |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=nirajxdev&show_icons=true&theme=transparent&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajxdev&layout=compact&theme=transparent&hide_border=true) |
-
----
-
 ### 🚀 Projects & Collaboration
 * **Currently Building:** Back-end web applications with a focus on scalability.
 * **Seeking:** Collaboration on open-source software and robust web projects.
