@@ -22,11 +22,11 @@ I am a **Full Stack Developer** focused on building high-performance backend sys
 ### 📈 Metrics & Activity
 | GitHub Stats | Top Languages |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=nirajxdev&show_icons=true&theme=transparent&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajxdev&layout=compact&theme=transparent&hide_border=true) |
 
 ---
 
 ### 🚀 Projects & Collaboration
 * **Currently Building:** Back-end web applications with a focus on scalability.
 * **Seeking:** Collaboration on open-source software and robust web projects.
-* **Contact:** [nirajsk1596@gmail.com](mailto:nirajsk1596@gmail.com) | [X/Twitter](https://x.com/nirajxdev)
+* **Contact:** [nirajsk1596@gmail.com](mailto:nirajsk1596@gmail.com) | [X / Twitter](https://x.com/nirajxdev)
