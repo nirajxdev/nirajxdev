@@ -1,39 +1,17 @@
-# Hey! 👋 Welcome to my GitHub
+hey! welcome to my GitHub
 
-I'm **Niraj**, a developer interested in backend engineering, web development, and building useful products.
+i'm Niraj (aka nirajxdev), a backend developer.
 
-Currently building **[DownAlert](https://downalert.in)** — a website monitoring and uptime tracking platform.
+currently building [DownAlert](https://downalert.in) — a website monitoring and uptime tracking platform.
 
-### 🚧 Currently Building
 
-**[DownAlert](https://downalert.in)**
-Monitor your websites, detect downtime, and get notified when something goes wrong.
+tech i work with
 
-I'm building it from the ground up while learning more about:
+`JavaScript` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `Git` · `Linux`
 
-* Backend architecture
-* APIs & authentication
-* Databases
-* Monitoring & uptime systems
-* Deployment & infrastructure
 
-### 🛠️ Tech I Work With
+🔗 
 
-`JavaScript` · `TypeScript` · `React` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `Git` · `Linux`
+X: [@nirajxdev](https://x.com/nirajxdev)
+Email: [nirajsk1596@gmail.com](mailto:nirajsk1596@gmail.com)
 
-### 📌 What I'm Doing
-
-* 🔨 Building and shipping projects
-* 🧠 Learning backend & system design
-* 🐧 Working primarily with Linux
-* 🌐 Exploring SaaS and developer tools
-* 📚 Documenting what I learn
-
-### 🔗 Find Me
-
-* **X:** [@nirajxdev](https://x.com/nirajxdev)
-* **Email:** [nirajsk1596@gmail.com](mailto:nirajsk1596@gmail.com)
-
----
-
-> You miss the 100% shot, you don't take.
